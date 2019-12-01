@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+    <Books>
+        <Title>The Kimball Group Reader</Title>
+        <Authors>
+            <Author>Ralph Kimball</Author>
+            <Author>Margy Ross</Author>
+        </Authors>
+        <ISBN>978-1119216315</ISBN>
+        <Publisher>Wiley</Publisher>
+        <Amazon_Price>$50.00</Amazon_Price>
+    </Books>
+    <Books>
+        <Title>Project Management The Managerial Process</Title>
+        <Authors>
+            <Author>Clifford F. Gray</Author>
+            <Author>Erik W. Larson</Author>
+            <Author>Gautam V. Desai</Author>
+        </Authors>
+        <ISBN>978-9339212032</ISBN>
+        <Publisher>Mgh</Publisher>
+        <Amazon_Price>$28.03</Amazon_Price>
+    </Books>
+    <Books>
+        <Title>Project Management for Non-Project Managers</Title>
+        <Authors>Jack Ferraro</Authors>
+        <ISBN>978-0814417362</ISBN>
+        <Publisher>AMACOM</Publisher>
+        <Amazon_Price>$26.09</Amazon_Price>
+    </Books>
+</Library>
