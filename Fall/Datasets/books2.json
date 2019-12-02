@@ -2,31 +2,19 @@
     "Books":[
         {
             "Title": "The Kimball Group Reader",
-            "Authors": [
-                {
-                    "Name":"Ralph Kimball, Margy Ross"
-                }
-            ],
+            "Authors": "Ralph Kimball, Margy Ross"
             "ISBN": "978-1119216315",
             "Amazon Price": "$50.00"  
         },
         {
             "Title": "Project Management The Managerial Process",
-            "Authors": [
-                {
-                    "Name":"Clifford F. Gray, Erik W. Larson, Gautam V. Desai"
-                }
-            ],
+            "Authors": "Clifford F. Gray, Erik W. Larson, Gautam V. Desai",
             "ISBN": "978-9339212032",
             "Amazon Price": "$28.03"
         },
         {
             "Title": "Project Management for Non-Project Managers",
-            "Authors": [
-                {
-                    "Name":"Jack Ferraro"
-                }
-            ],
+            "Authors":"Jack Ferraro",
             "ISBN": "978-0814417362",
             "Amazon Price": "$26.09"
         }
