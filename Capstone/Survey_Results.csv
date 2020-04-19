@@ -1,0 +1,51 @@
+﻿ID,Age,Gender,Status,Education,Employment,Income,Location,NewClothes,Store,Unworn,OldCloth,Charity,Donated
+1,25,Female,Single,Bachelors,Employed,"$45,000.00 ",NY,3 Months,Department,23,Sell,Never,No
+2,25,Female,Single,Bachelors,Employed,"$65,000.00 ",NY,Month,Thrift,9,Sell,Sometimes,No
+3,24,Female,Single,Bachelors,Student,"$40,000.00 ",LA,Month,Thrift,16,Sell,Never,No
+4,57,Male,Married,Masters,Employed,"$250,000.00 ",LA,3 Months,Discount,30,Donate,Often,Yes
+5,29,Female,Married,Masters,Employed,"$60,000.00 ",NY,Month,Thrift,12,Sell,Sometimes,Yes
+6,40,Male,Married,Masters,Employed,"$160,000.00 ",Chicago,3 Months,Thrift,13,Sell,Sometimes,Yes
+7,25,Female,Single,,Employed,"$45,000.00 ",Atlanta,Month,Thrift,10,Donate,Never,Yes
+8,23,Female,Single,Bachelors,Student,"$20,000.00 ",NY,Month,Department,3,Throw,Sometimes,No
+9,53,Female,Married,Masters,Employed,"$180,000.00 ",Chicago,Month,Thrift,33,Throw,Never,No
+10,24,Female,Married,Bachelors,Employed,"$80,000.00 ",Atlanta,3 Months,Department,17,Throw,Sometimes,Yes
+11,43,Male,Married,,Employed,"$130,000.00 ",Chicago,Month,Thrift,32,Throw,Sometimes,Yes
+12,28,Female,Single,Masters,Employed,"$90,000.00 ",LA,3 Months,Department,24,Throw,Never,No
+13,18,Female,Single,High School,Unemployed,"$45,000.00 ",LA,3 Months,Thrift,18,Throw,Never,No
+14,24,Male,Married,Masters,Employed,"$52,000.00 ",Atlanta,Month,Department,22,Sell,Never,Yes
+15,30,Male,Single,Masters,Employed,"$65,000.00 ",NY,Month,Department,12,Donate,Often,No
+16,29,Female,Married,Bachelors,Employed,"$160,000.00 ",LA,Month,Department,23,Donate,Sometimes,Yes
+17,24,Male,Married,Masters,Employed,"$120,000.00 ",Atlanta,3 Months,Thrift,12,Sell,Sometimes,No
+18,48,Male,Single,Masters,Employed,"$200,000.00 ",Chicago,3 Months,Thrift,33,Throw,Never,No
+19,52,Female,Married,High School,Employed,"$40,000.00 ",Miami,Month,Department,22,Donate,Often,Yes
+20,27,Female,Married,Masters,Employed,"$160,000.00 ",Chicago,Month,Thrift,7,Sell,Sometimes,Yes
+21,26,Female,Single,Masters,Retired,"$60,000.00 ",NY,Month,Department,7,Throw,Never,Yes
+22,33,Male,Single,Bachelors,Employed,"$165,000.00 ",LA,Month,Department,3,Throw,Often,Yes
+23,45,Male,Single,,Employed,"$130,000.00 ",Atlanta,Month,Thrift,4,Sell,Never,No
+24,60,Male,Single,Masters,Retired,"$160,000.00 ",Miami,Month,Department,21,Throw,Sometimes,Yes
+25,22,Male,Single,Bachelors,Employed,"$52,000.00 ",NY,3 Months,Department,2,Donate,Sometimes,Yes
+26,57,Female,Married,Bachelors,Employed,"$130,000.00 ",NY,3 Months,Discount,32,Throw,Sometimes,No
+27,28,Male,Single,Bachelors,Employed,"$110,000.00 ",NY,3 Months,Department,9,Sell,Sometimes,No
+28,36,Female,Single,Bachelors,Employed,"$175,000.00 ",LA,Month,Department,22,Throw,Often,Yes
+29,23,Female,Married,Masters,Student,"$45,000.00 ",Miami,3 Months,Department,7,Throw,Sometimes,Yes
+30,40,Female,Single,,Employed,"$300,000.00 ",Miami,Month,Department,45,Throw,Often,No
+31,30,Female,Married,Masters,Employed,"$175,000.00 ",NY,Month,Department,7,Throw,Sometimes,No
+32,32,Male,Married,Masters,Student,"$82,000.00 ",Miami,Month,Thrift,2,Sell,Sometimes,No
+33,22,Male,Single,Bachelors,Employed,"$150,000.00 ",NY,3 Months,Department,9,Throw,Never,No
+34,40,Male,Married,Masters,Employed,"$78,000.00 ",Miami,Month,Department,2,Sell,Sometimes,No
+35,34,Female,Single,Bachelors,Employed,"$180,000.00 ",NY,Month,Department,7,Sell,Never,No
+36,62,Female,Married,Bachelors,Employed,"$250,000.00 ",NY,Month,Department,11,Donate,Often,Yes
+37,37,Female,Married,High School,Employed,"$85,000.00 ",Miami,Month,Department,15,Sell,Never,No
+38,26,Male,Single,Masters,Student,"$47,000.00 ",Atlanta,Year,Discount,10,Sell,Sometimes,No
+39,17,Female,Single,High School,Student,"$2,000.00 ",Miami,Month,Department,30,Pass Down,Never,No
+40,58,Male,Married,,Retired,"$180,000.00 ",Chicago,3 Months,Thrift,48,Throw,Never,No
+41,15,Female,Single,High School,Student,"$3,000.00 ",LA,Month,Department,17,Pass Down,Sometimes,No
+42,48,Male,Married,Masters,Employed,"$300,000.00 ",LA,3 Months,Department,18,Throw,Often,No
+43,79,Female,Single,High School,Retired,"$80,000.00 ",Miami,Month,Discount,30,Pass Down,Sometimes,No
+44,58,Male,Married,Masters,Employed,"$450,000.00 ",NY,Month,Department,30,Throw,Often,Yes
+45,17,Female,Single,High School,Unemployed,$500.00 ,NY,Month,Department,10,Throw,Never,No
+46,30,Female,Single,Masters,Employed,"$150,000.00 ",NY,3 Months,Thrift,7,Sell,Sometimes,Yes
+47,25,Female,Married,Bachelors,Employed,"$65,000.00 ",LA,Month,Department,9,Throw,Sometimes,No
+48,33,Female,Married,High School,Student,"$60,000.00 ",LA,3 Months,Thrift,12,Sell,Never,No
+49,20,Male,Single,High School,Student,"$10,000.00 ",NY,Month,Discount,12,Pass Down,Sometimes,No
+50,27,Female,Single,Masters,Employed,"$127,000.00 ",NY,3 Months,Department,17,Donate,Often,No
